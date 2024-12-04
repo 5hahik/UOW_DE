@@ -12,3 +12,6 @@ Week 8 - Unstructured Data Feature Extraction <br>
 Week 9 - Unstructured Data - Storage and Modelling <br>
 Week 10 - Data Pipline and Data Serving <br>
 Week 11 - Data Governance <br>
+
+
+
